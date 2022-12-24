@@ -2,11 +2,11 @@
 
 Visit my portfolio website at haris-sujethan.com, This app is compatible with all devices and screen sizes
 
-This is Desktop View: 
+This is the Desktop View: 
 
 ![](assets/HomePageDesktop.PNG)
 
-This is Mobile View: 
+This is the Mobile View: 
 
 ![](assets/HomepageMobile.PNG)
 
