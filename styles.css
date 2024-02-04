@@ -263,7 +263,7 @@ nav {
 /* Technology Stack */
 
 .language__img {
-    width: 100%;
+    width: 80%;
     max-width: 100px;
     transition: all 300 ease;
 }
